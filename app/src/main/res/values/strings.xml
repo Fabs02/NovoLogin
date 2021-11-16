@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NovoLogin</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="log_in">LOG IN</string>
+    <string name="doesn_t_have_an_account_yet">Doesn\'t have an account yet?</string>
+    <string name="welcome_to_the_apps">Welcome to the apps</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
